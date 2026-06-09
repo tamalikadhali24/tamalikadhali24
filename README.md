@@ -18,7 +18,7 @@ I'm an aspiring business analyst passionate about helping businesses make sense 
 
 My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+When I'm not working with data, I enjoy making sketches. I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
@@ -43,7 +43,7 @@ When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating c
   <!-- 💡 Go to Shields.io to create your own badges -->
   <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
   <img src="https://img.shields.io/badge/Power%20BI-Imtermediate-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
+  <img src="https://img.shields.io/badge/Excel-Advance-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
   <img src="https://img.shields.io/badge/Tableau-Beginner-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
 </p>
 
